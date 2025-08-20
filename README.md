@@ -1,6 +1,6 @@
 # API Fluxxer — Laravel + Redis (Horizon) + Vue.js
 
-Este projeto implementa um **processador de tarefas assíncronas** utilizando **Laravel**, **Redis**, **Laravel Horizon** e **Vue.js**.  
+Este projeto disponível por mim que implementa um **processador de tarefas assíncronas** utilizando **Laravel**, **Redis**, **Laravel Horizon** e **Vue.js**.  
 O objetivo é demonstrar boas práticas de API REST, processamento em fila e frontend reativo.
 
 ---
