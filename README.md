@@ -74,7 +74,7 @@ npm run dev             # Compila assets Vue
 
 ### Criar Task
 ```bash
-curl -X POST http://127.0.0.1:8000/api/tasks -H "Content-Type: application/json" -d '{"title":"Minha primeira task"}'
+curl -X POST http://127.0.0.1:8000/api/tasks -H "Content-Type: application/json" -d '{"title":"Minha primeira tarefa"}'
 ```
 
 ### Listar Tasks
