@@ -53,6 +53,8 @@ No `.env`, configure:
 ```
 QUEUE_CONNECTION=redis
 REDIS_CLIENT=predis
+BD=fluxxer_test
+
 ```
 
 ### 3. Migrate Database
