@@ -9,7 +9,7 @@ O objetivo é demonstrar boas práticas de API REST, processamento em fila e fro
 - **Backend**: Laravel 11, PHP 8.2
 - **Fila**: Redis + Laravel Horizon
 - **Frontend**: Vue 3 + Vite
-- **Banco de Dados**: MySQL
+- **Banco de Dados**: MySQL (base: fluxxer_test)
 
 ---
 
